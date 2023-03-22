@@ -14,7 +14,7 @@ public class PlayerInteract : MonoBehaviour
     [SerializeField]
     private GameObject bulletpoint;
     [SerializeField]
-    private float bulletSpeed = 35f;
+    private float bulletSpeed = 45f;
     
 
     public bool isShot;
