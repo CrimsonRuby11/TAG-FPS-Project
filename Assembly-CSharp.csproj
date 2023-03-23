@@ -59,12 +59,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Samples\Input System\1.4.4\Custom Binding Composite\CustomComposite.cs" />
-    <Compile Include="Assets\Scripts\Cubes.cs" />
     <Compile Include="Assets\Scripts\PlayerUI.cs" />
     <Compile Include="Assets\Scripts\PlayerInteract.cs" />
     <Compile Include="Assets\Input\PlayerInput.cs" />
     <Compile Include="Assets\Scripts\PlayerLook.cs" />
-    <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Scripts\Morph.cs" />
     <Compile Include="Assets\Scripts\PlayerMotor.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
