@@ -1463,8 +1463,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 131944667}
-  xsens: 20
-  ysens: 20
+  xsens: 15
+  ysens: 15
 --- !u!114 &889556347
 MonoBehaviour:
   m_ObjectHideFlags: 0

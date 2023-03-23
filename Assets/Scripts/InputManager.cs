@@ -23,6 +23,7 @@ public class InputManager : MonoBehaviour
         main.Jump.performed += ctx => motor.jump();
         main.Shoot.performed += ctx => interact.isShot = true;
         main.Morph.performed += ctx => interact.isMorph = true;
+        main.Pause.performed += ctx => PlayerInteract.isPaused = true;
     }
 
     void FixedUpdate()
